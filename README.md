@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @alxitaliano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, MySQL, React.js, Node.js
 
 <!---
 alxitaliano/alxitaliano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
