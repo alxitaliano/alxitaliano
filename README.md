@@ -4,16 +4,23 @@
 
 <div align="center">
   <a href="https://github.com/alxitaliano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alxitaliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=alxitaliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxitaliano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="alx-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="alx-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alx-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="alx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="alx-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
+  <img align="center" alt="alx-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="alx-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="alx-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="alx-Docker" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="alx-Django" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="alx-AWS" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="alx-MYSQL" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="alx-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+
   
   
 </div>
