@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @alxitaliano
+- 👋 Hi, I’m @andersonleandroalx
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript, MySQL, React.js, Node.js
 
 ##
 
 <div align="center">
-  <a href="https://github.com/alxitaliano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alxitaliano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxitaliano&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/andersonleandroalx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonleandroalx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonleandroalx&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
